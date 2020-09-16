@@ -74,5 +74,20 @@ Key points for better Data Center :
   ------------------------------------------------------------------------------------------
   
   Userbase -> Load Balancer -> Servers -> (File System,  Database )
+  ---------------------------------------------------------------------------------------------------------------
+  Microsoft Azure Services
+  1- Virtual Machine : Just like a new machine with a freshly installed operating system.
+  2- App Service : Automated version of a virtual machine ,upload code and it deploys 
+                   the application for you.
+  3- Functions : Functions in azure have server-less architectures and our meant
+                 to execute background tasks.
+  ---------------------------------------------------------------------------------------------------
+  Blob Storage : It is an all-in-one storage which can store any type of file.
+  Queue Storage : It is used for queueing tasks which can be read sequentially 
+                  and can thus be used for synchronization.(rename-filter-upload)
+  Backup :   With the backup service , you can store all your infrequently accessed
+             data at a minimum price.
+  --------------------------------------------------------------------------------------------------------
+  
   
   
