@@ -88,6 +88,10 @@ Key points for better Data Center :
   Backup :   With the backup service , you can store all your infrequently accessed
              data at a minimum price.
   --------------------------------------------------------------------------------------------------------
+  MySQL : MYSQL for azure is the mysql implementation of azure.
+  Auto Scale : Automatically scale up and scale down accprding to needs,
+  Load Balancer : Used to equally distribute the incoming data to the 
+                  no. of servers running currently.
   
   
   
